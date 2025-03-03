@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-int SCREEN_WIDTH = 1900;
-int SCREEN_HEIGHT = 20;
+int SCREEN_WIDTH = 1910;
+int SCREEN_HEIGHT = 32;
 
 int main(int argc, char* argv[]) {
     srand(time(NULL));
